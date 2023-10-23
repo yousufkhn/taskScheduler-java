@@ -20,7 +20,7 @@ Before using the Task Executor Application, ensure you have the following prereq
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/task-executor.git
+   git clone https://github.com/yousufkhn/taskScheduler-java.git
    ```
 
 Navigate to the project directory:
